@@ -8,7 +8,7 @@
   <h3 align="center">Links de documentos para os Exames AZ-303 e AZ-304</h3>
 
   <p align="center">
-    Links de documentos para os Exames AZ-303 (Microsoft Azure Architect Technologies) e AZ-304 (Microsoft Azure Architect Design)
+    Documentos para os Exames AZ-303 (Microsoft Azure Architect Technologies) e AZ-304 (Microsoft Azure Architect Design)
     <br />
     <br />
     <a href="https://github.com/solidqi/az303-304/issues">Report Bug</a>
@@ -34,24 +34,22 @@
       </ul>
     </li>
     <li><a href="#Links">Links</a></li>
-    <li><a href="#contact">Contato</a></li>
+    <li><a href="#Contato">Contato</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- Sobre o Projeto -->
 ## Sobre o Projeto
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Decidi iniciar este projeto afim de auxiliar estudantes, entusiastas e profissionais de TI com os estudos para os exames AZ-303 (Microsoft Azure Architect Technologies) e AZ-304 (Microsoft Azure Architect Design).
 
 
-<!-- GETTING STARTED -->
+<!-- Iniciando -->
 ## Iniciando
 
-To get a local copy up and running follow these simple steps.
+O conteúdo dos links é baseado no conteúdo dos treinamentos oficiais da Microsoft: Curso AZ-303T00-A: Microsoft Azure Architect Technologies e Curso AZ-304T00-A: Microsoft Azure Architect Design.
 
 ### Pré-Requisitos
 
@@ -73,7 +71,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- CONTACT -->
+<!-- CONTATO -->
 ## Contact
 
 Celso Ricardo Gubitoso - [@celsogubitoso](https://twitter.com/celsogubitoso) - celso.gubitoso@solidqi.com.br
