@@ -77,7 +77,7 @@ Abaixo, temos os links de vários documentos classificados por assunto.
 
 #### Implmentar o Azure Active Directory
 
-[O que é o Active Directory do Azure?](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
+* [O que é o Active Directory do Azure?](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
 [Documentação do Azure AD Domain Services](https://docs.microsoft.com/pt-br/azure/active-directory-domain-services/)
 [Managing custom domain names in your Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-manage)
 [Documentação de identidade híbrida](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/)
