@@ -77,6 +77,21 @@ Abaixo, temos os links de vários documentos classificados por assunto.
 
 #### Implmentar o Azure Active Directory
 
+````
+- [x] [O que é o Active Directory do Azure?](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
+- [x] [Documentação do Azure AD Domain Services](https://docs.microsoft.com/pt-br/azure/active-directory-domain-services/)
+- [x] [Managing custom domain names in your Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-manage)
+- [x] [Documentação de identidade híbrida](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/)
+- [x] [O que é proteção de identidade?](https://docs.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection)
+- [x] [O que é o Azure AD Identity Governance?](https://docs.microsoft.com/pt-br/azure/active-directory/governance/identity-governance-overview)
+- [x] [Documentação do Privileged Identity Management](https://docs.microsoft.com/pt-br/azure/active-directory/privileged-identity-management/)
+- [x] [Como funciona: autenticação multifator do Azure AD](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/concept-mfa-howitworks)
+- [x] [Definir as configurações de autenticação multifator do Azure AD](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings)
+- [x] [Documentação de relatórios e monitoramento do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/reports-monitoring/)
+- [x] [Tutorial: Permitir que os usuários desbloqueiem sua conta ou redefinam senhas usando a redefinição de senha por autoatendimento do Microsoft Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/tutorial-enable-sspr)
+- [x] [Requisitos de licenciamento para Azure Active Directory redefinição de senha de autoatendimento](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/concept-sspr-licensing)
+````
+
 #### Implementar e Gerenciar Identidades Híbridas
 
 #### Implementar Rede Virtual
