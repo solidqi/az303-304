@@ -49,25 +49,61 @@ Decidi iniciar este projeto afim de auxiliar estudantes, entusiastas e profissio
 <!-- Iniciando -->
 ## Iniciando
 
-O conteúdo dos links é baseado no conteúdo dos treinamentos oficiais da Microsoft: Curso AZ-303T00-A: Microsoft Azure Architect Technologies e Curso AZ-304T00-A: Microsoft Azure Architect Design.
+O conteúdo dos links é baseado no conteúdo dos treinamentos oficiais da Microsoft: [Curso AZ-303T00-A: Microsoft Azure Architect Technologies](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-303?tab=tab-instructor-led) e [Curso AZ-304T00-A: Microsoft Azure Architect Design](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-304?tab=tab-instructor-led).
 
 ### Pré-Requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Muitos dos documentos registrados, podem utilizar o Azure command-line interface (Azure Cli). Trata-se de um conjunto de comandos utilizados para criar e gerenciar recursos do Azure.
+Além da versão para Windows, o Azure CLI é disponibilizado para MacOS e Linux.
 
 ### Instalação
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/solidqi/az303-304.git
-   ```
+1. Azure CLI - Windows
+
+Para instalar o Azure CLI, clique no link [Install the Azure CLI for Windows](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli-windows?tabs=azure-cli).
+
+2. Azure CLI - MacOS
+
+Para instalar o Azure CLI, clique no link [Install the Azure CLI for MacOS](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli-macos).
+
+3. Azure CLI - MacOS
+
+Para instalar o Azure CLI, clique no link [Install the Azure CLI for Linux](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli-linux?pivots=apt).
 
 
 ## Links
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Abaixo, temos os links de vários documentos classificados por assunto.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+#### Implmentar o Azure Active Directory
+
+#### Implementar e Gerenciar Identidades Híbridas
+
+#### Implementar Rede Virtual
+
+#### Implementar VMs para Windows e Linux
+
+#### Implementar Load Balancing e Network Security
+
+#### Implementar Storage Account
+
+#### Implementar Banco de Dados NoSQL
+
+#### Implementar Banco de Dados no Azure NoSQL
+
+#### Automatizar a implantação e configuração de recursos
+
+#### Implementar e Gerenciar a Azure Governance
+
+#### Gerenciar a segurança para aplicativos
+
+#### Gerenciar cargas de trabalho no Azure
+
+#### Implementar Aplicativos Baseados em Contêiner
+
+#### Implementar uma Infraestrutura de Aplicativos
+
+#### Implementar Cloud Infrastructure Monitoring
 
 
 
