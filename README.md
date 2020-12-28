@@ -262,7 +262,7 @@ Abaixo, temos os links de vários documentos classificados por assunto.
 
 
 <!-- CONTATO -->
-## Contact
+## Contato
 
 Celso Ricardo Gubitoso - [@celsogubitoso](https://twitter.com/celsogubitoso) - celso.gubitoso@solidqi.com.br
 
