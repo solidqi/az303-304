@@ -78,19 +78,36 @@ Abaixo, temos os links de vários documentos classificados por assunto.
 #### Implmentar o Azure Active Directory
 
 * [O que é o Active Directory do Azure?](https://docs.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-whatis)
-[Documentação do Azure AD Domain Services](https://docs.microsoft.com/pt-br/azure/active-directory-domain-services/)
-[Managing custom domain names in your Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-manage)
-[Documentação de identidade híbrida](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/)
-[O que é proteção de identidade?](https://docs.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection)
-[O que é o Azure AD Identity Governance?](https://docs.microsoft.com/pt-br/azure/active-directory/governance/identity-governance-overview)
-[Documentação do Privileged Identity Management](https://docs.microsoft.com/pt-br/azure/active-directory/privileged-identity-management/)
-[Como funciona: autenticação multifator do Azure AD](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/concept-mfa-howitworks)
-[Definir as configurações de autenticação multifator do Azure AD](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings)
-[Documentação de relatórios e monitoramento do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/reports-monitoring/)
-[Tutorial: Permitir que os usuários desbloqueiem sua conta ou redefinam senhas usando a redefinição de senha por autoatendimento do Microsoft Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/tutorial-enable-sspr)
-[Requisitos de licenciamento para Azure Active Directory redefinição de senha de autoatendimento](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/concept-sspr-licensing)
+* [Documentação do Azure AD Domain Services](https://docs.microsoft.com/pt-br/azure/active-directory-domain-services/)
+* [Managing custom domain names in your Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-manage)
+* [Documentação de identidade híbrida](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/)
+* [O que é proteção de identidade?](https://docs.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection)
+* [O que é o Azure AD Identity Governance?](https://docs.microsoft.com/pt-br/azure/active-directory/governance/identity-governance-overview)
+* [Documentação do Privileged Identity Management](https://docs.microsoft.com/pt-br/azure/active-directory/privileged-identity-management/)
+* [Como funciona: autenticação multifator do Azure AD](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/concept-mfa-howitworks)
+* [Definir as configurações de autenticação multifator do Azure AD](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings)
+* [Documentação de relatórios e monitoramento do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/reports-monitoring/)
+* [Tutorial: Permitir que os usuários desbloqueiem sua conta ou redefinam senhas usando a redefinição de senha por autoatendimento do Microsoft Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/tutorial-enable-sspr)
+* [Requisitos de licenciamento para Azure Active Directory redefinição de senha de autoatendimento](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/concept-sspr-licensing)
 
 #### Implementar e Gerenciar Identidades Híbridas
+
+* [Sincronização do Azure AD Connect: compreender e personalizar a sincronização](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sync-whatis)
+* [Sincronização do Azure AD Connect: noções básicas sobre a arquitetura](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/concept-azure-ad-connect-sync-architecture)
+* [Sincronização do Azure AD Connect: conceitos técnicos](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sync-technical-concepts)
+* [Portas e Protocolos Requeridos para Identidade Híbrida](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/reference-connect-ports)
+* [Sincronização do Azure AD Connect: Fazer uma alteração na configuração padrão](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration)
+* [Sincronização do Azure AD Connect: configurar a filtragem](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering)
+* [Azure Active Directory logon único contínuo: início rápido](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sso-quick-start)
+* [Logon Único Contínuo do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sso)
+* [Planejar uma implantação de logon único](https://docs.microsoft.com/pt-br/azure/active-directory/manage-apps/plan-sso-deployment)
+* [Implemente a sincronização de hash de senha com a sincronização do Azure AD Connect](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)
+* [Entrada do usuário com autenticação de passagem do Azure Active Directory](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-pta)
+* [Tutorial: Federar um ambiente com uma única floresta do AD na nuvem](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/tutorial-federation)
+* [Tutorial: Habilitar o write-back da redefinição de senha por autoatendimento do Azure Active Directory para um ambiente local](https://docs.microsoft.com/pt-br/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+* [O que é o Azure AD Connect?](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/whatis-azure-ad-connect)
+* [Instalação do agente do Azure AD Connect Health](https://docs.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-health-agent-install)
+* [Azure Active Directory Connect Health: Monitoring the sync engine](https://azure.microsoft.com/pt-br/resources/videos/azure-active-directory-connect-health-monitoring-the-sync-engine/)
 
 #### Implementar Rede Virtual
 
